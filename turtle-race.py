@@ -1,4 +1,4 @@
-# Visit pyGuru on YouTube
+
 
 import turtle
 from random import randint as rn
